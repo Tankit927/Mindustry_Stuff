@@ -1,0 +1,5 @@
+# Exclude following folders
+Game/
+GameData/
+mlog/
+Source/
